@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2ddaf5f2cd2124691a48abf8d2ad56, type: 3}
+  m_Name: Dog
+  m_EditorClassIdentifier: 
+  name: Dog
+  description: The goodest
+  namePrefab: {fileID: 2517200362012238976, guid: 1c681d66971f3a8469618ad3658fac7e, type: 3}
+  fireRate: 10
+  ammo: 0

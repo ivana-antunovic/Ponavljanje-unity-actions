@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2ddaf5f2cd2124691a48abf8d2ad56, type: 3}
+  m_Name: Cat
+  m_EditorClassIdentifier: 
+  name: Cat
+  description: If it fits, I sits
+  namePrefab: {fileID: 1429718394642833053, guid: bf88ce722abb39245af8a2d9407fe9cc, type: 3}
+  fireRate: 20
+  ammo: 0
